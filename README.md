@@ -13,6 +13,10 @@ Please :star: this repo and share it with others
 
 * [**Material 3 from design to deployment - Rody Davis, Liam Spradlin | Flutter Forward**](https://www.youtube.com/watch?v=7nrhTdS7dHg)
 
+## 2021
+
+* [**C interoperability with Dart FFI - Daco Harkes, Michael Thomsen | Google I/O**](https://www.youtube.com/watch?v=2MMK7YoFgaA&t=108s)
+
 ## 2020
 
 * [**Flutter, what are Widgets, RenderObjects and Elements? - Norbert Kozsir | Flutter Europe**](https://www.youtube.com/watch?v=PnWxW21vDak) `44:06` _Flutter Europe_
