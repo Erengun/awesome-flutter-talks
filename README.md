@@ -11,6 +11,7 @@ Please :star: this repo and share it with others
 
 * [**Home Automation System in Flutter - Roman Just Codes | Youtube Playlist**](https://youtube.com/playlist?list=PL8NTBhIXP2gH-Z7pgJ6W3wYodZwe7d6bI&si=jNEo_opAdTKpA_mU)
 
+* [**Material 3 from design to deployment - Rody Davis, Liam Spradlin | Flutter Forward**](https://www.youtube.com/watch?v=7nrhTdS7dHg)
 
 ## 2020
 
