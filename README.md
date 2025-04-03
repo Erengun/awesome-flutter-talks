@@ -7,6 +7,10 @@ Watch the repo to get updates when i add new flutter Talks
 # Thank _You_!
 Please :star: this repo and share it with others
 
+## 2025
+
+* [**Game physics basics (for Flutter games) - Filip Hracek | Flutter Youtube**](https://youtu.be/afymGuZTCWw?si=4UUJM1_Ooic5FHk3)
+
 ## 2023
 
 * [**Home Automation System in Flutter - Roman Just Codes | Youtube Playlist**](https://youtube.com/playlist?list=PL8NTBhIXP2gH-Z7pgJ6W3wYodZwe7d6bI&si=jNEo_opAdTKpA_mU)
